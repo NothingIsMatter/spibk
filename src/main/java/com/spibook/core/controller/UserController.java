@@ -6,6 +6,7 @@ import com.spibook.core.entity.User;
 import com.spibook.core.service.UserService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
+import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -14,7 +15,7 @@ import java.util.List;
 @RequestMapping("user")
 public class UserController {
     private UserService userService;
-    @PostMapping
+    @PostMapping("/register")
     public ResponseEntity registerNewUser(@RequestBody User user) throws UserAlreadyExistsException{
             userService.save(user);
         return new ResponseEntity(HttpStatus.OK);

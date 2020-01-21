@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27c5c217-0c1e-4298-8f94-edef1d89343b" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="27c5c217-0c1e-4298-8f94-edef1d89343b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/spibook2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spibook/core/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spibook/core/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spibook/core/controller/MessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spibook/core/controller/MessageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spibook/core/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spibook/core/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spibook/core/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spibook/core/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/js/components/app.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/js/components/app.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/js/components/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/js/components/login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/js/router/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/js/router/router.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -42,10 +61,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
-        <option value="Class" />
+        <option value="HTML File" />
         <option value="Vue Single File Component" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -66,14 +85,16 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="308" />
-    <option name="y" value="27" />
-    <option name="width" value="1380" />
-    <option name="height" value="1000" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1RnJFCK6MerjbACaUYKbtSiB49Z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="postgresql&#10;mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -86,18 +107,25 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563530321860" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
       <recent name="$PROJECT_DIR$/src/main/java" />
       <recent name="$PROJECT_DIR$/src/main" />
       <recent name="$PROJECT_DIR$/src/main/resources/js" />
@@ -107,18 +135,6 @@
       <recent name="$PROJECT_DIR$/src/main/resources/js" />
       <recent name="$PROJECT_DIR$/src/main/resources/static/js" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Spring Boot.CoreApplication">
     <configuration name="ParseServiceImplTest.getAllUniversities" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -137,49 +153,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="spibook2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="spibook2" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+    <configuration name="CoreApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spibook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spibook.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spibook.core.CoreApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -213,24 +195,37 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.CoreApplication" />
+        <item itemvalue="Spring Boot.CoreApplication (1)" />
         <item itemvalue="Spring Boot.Starter" />
         <item itemvalue="JUnit.ParseServiceImplTest.getAllUniversities" />
       </list>
     </recent_temporary>
   </component>
   <component name="ServiceViewManager">
-    <option name="allServicesViewState">
-      <serviceView>
-        <treeState>
-          <expand>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@4c532951" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-            </path>
-          </expand>
-          <select />
-        </treeState>
-      </serviceView>
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:spibook@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:spibook@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@1ffd08" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:spibook@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@476d6235" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
     </option>
   </component>
   <component name="SvnConfiguration">
@@ -264,7 +259,18 @@
       <workItem from="1570296951297" duration="1046000" />
       <workItem from="1570298031623" duration="1710000" />
       <workItem from="1570299845959" duration="994000" />
-      <workItem from="1570300905408" duration="459000" />
+      <workItem from="1570300905408" duration="1593000" />
+      <workItem from="1570302701601" duration="836000" />
+      <workItem from="1570391478842" duration="1991000" />
+      <workItem from="1570478314018" duration="3775000" />
+      <workItem from="1570562430610" duration="1490000" />
+      <workItem from="1570569856627" duration="17000" />
+      <workItem from="1571940529260" duration="23000" />
+      <workItem from="1571940573664" duration="2233000" />
+      <workItem from="1574875300198" duration="612000" />
+      <workItem from="1575405365458" duration="254000" />
+      <workItem from="1579512779263" duration="5421000" />
+      <workItem from="1579607379029" duration="7956000" />
     </task>
     <servers />
   </component>
@@ -325,6 +331,92 @@
       </map>
     </option>
   </component>
+  <component name="WindowStateProjectService">
+    <state x="724" y="199" width="462" height="714" key="#com.intellij.ide.util.MemberChooser" timestamp="1579610656113">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="724" y="199" width="462" height="714" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1579610656113" />
+    <state x="769" y="440" width="371" height="232" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575405429511">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="769" y="440" width="371" height="232" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1575405429511" />
+    <state width="1864" height="449" key="GridCell.Tab.0.bottom" timestamp="1579615433015">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1864" height="449" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1579615433015" />
+    <state width="1864" height="449" key="GridCell.Tab.0.center" timestamp="1579615433015">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1864" height="449" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1579615433015" />
+    <state width="1864" height="449" key="GridCell.Tab.0.left" timestamp="1579615433014">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1864" height="449" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1579615433014" />
+    <state width="1864" height="449" key="GridCell.Tab.0.right" timestamp="1579615433015">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1864" height="449" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1579615433015" />
+    <state width="1864" height="449" key="GridCell.Tab.1.bottom" timestamp="1579615433016">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1864" height="449" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1579615433016" />
+    <state width="1864" height="449" key="GridCell.Tab.1.center" timestamp="1579615433015">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1864" height="449" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1579615433015" />
+    <state width="1864" height="449" key="GridCell.Tab.1.left" timestamp="1579615433015">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1864" height="449" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1579615433015" />
+    <state width="1864" height="449" key="GridCell.Tab.1.right" timestamp="1579615433015">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1864" height="449" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1579615433015" />
+    <state width="1864" height="325" key="GridCell.Tab.2.bottom" timestamp="1579615271421">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1864" height="325" key="GridCell.Tab.2.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1579615271421" />
+    <state width="1864" height="325" key="GridCell.Tab.2.center" timestamp="1579615271421">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1864" height="325" key="GridCell.Tab.2.center/0.27.1920.1053@0.27.1920.1053" timestamp="1579615271421" />
+    <state width="1864" height="325" key="GridCell.Tab.2.left" timestamp="1579615271420">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1864" height="325" key="GridCell.Tab.2.left/0.27.1920.1053@0.27.1920.1053" timestamp="1579615271420" />
+    <state width="1864" height="325" key="GridCell.Tab.2.right" timestamp="1579615271421">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1864" height="325" key="GridCell.Tab.2.right/0.27.1920.1053@0.27.1920.1053" timestamp="1579615271421" />
+    <state x="380" y="131" width="1149" height="850" key="Maven.ArtifactSearchDialog" timestamp="1579610884221">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="380" y="131" width="1149" height="850" key="Maven.ArtifactSearchDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1579610884221" />
+    <state x="325" y="101" width="1269" height="911" key="SettingsEditor" timestamp="1579514034237">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="325" y="101" width="1269" height="911" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1579514034237" />
+    <state x="754" y="249" width="434" height="614" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1579612531852">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="754" y="249" width="434" height="614" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.27.1920.1053@0.27.1920.1053" timestamp="1579612531852" />
+    <state x="100" y="127" width="1720" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579609760090">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="127" width="1720" height="853" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1579609760090" />
+    <state x="686" y="456" width="538" height="201" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579512929702">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="686" y="456" width="538" height="201" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053@0.27.1920.1053" timestamp="1579512929702" />
+    <state x="665" y="185" width="580" height="742" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579608876213">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="665" y="185" width="580" height="742" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1579608876213" />
+    <state x="540" y="248" key="run.anything.popup" timestamp="1579514832577">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="540" y="248" key="run.anything.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1579514832577" />
+  </component>
   <component name="XDebuggerManager">
     <watches-manager>
       <configuration name="SpringBootApplicationConfigurationType">
@@ -367,66 +459,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

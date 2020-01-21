@@ -1,16 +1,19 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Login from 'components/login.vue'
-import App from 'components/app.vue'
+import WelcomePage from 'components/welcomepage.vue'
 
 
 Vue.use(VueRouter);
+
 const routes = [
-    { path:"/golog",component:App},
-    {path:"/",component:Login},
+    { path: "/", component: WelcomePage},
+    { path: "*", component: WelcomePage},
+    { path:"/auth",component:Login},
 
 ]
 
 export default new VueRouter({
+    mode: 'history',
     routes
 })

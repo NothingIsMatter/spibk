@@ -1,5 +1,6 @@
 <template>
     <v-app>
+
         <v-content>
             <v-container fluid fill-height>
                 <v-layout align-center justify-center>
@@ -8,22 +9,7 @@
                             <v-toolbar dark color="primary">
                                 <v-toolbar-title>Login form</v-toolbar-title>
                                 <v-spacer></v-spacer>
-                                <v-tooltip bottom>
-                                    <template v-slot:activator="{ on }">
-                                        <v-btn :href="source" icon large target="_blank" v-on="on">
-                                            <v-icon large>code</v-icon>
-                                        </v-btn>
-                                    </template>
-                                    <span>Source</span>
-                                </v-tooltip>
-                                <v-tooltip right>
-                                    <template v-slot:activator="{ on }">
-                                        <v-btn icon large href="https://codepen.io/johnjleider/pen/wyYVVj" target="_blank" v-on="on">
-                                            <v-icon large>mdi-codepen</v-icon>
-                                        </v-btn>
-                                    </template>
-                                    <span>Codepen</span>
-                                </v-tooltip>
+
                             </v-toolbar>
                             <v-card-text>
                                 <v-form>
@@ -40,11 +26,13 @@
                 </v-layout>
             </v-container>
         </v-content>
+
     </v-app>
 </template>
 
 <script>
     export default {
+        name:"login",
         data: () => ({
             drawer: null
         }),
